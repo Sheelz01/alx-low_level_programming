@@ -1,16 +1,16 @@
 #include "main.h"
 
 /**
-*swap_int -swaps two integers' values
-*@a: first integer
-*@b: second integer
+*sawp_int -swaps two integers'values
+*@n: first integer
+:@b: second integer
 *return: returns nothing
 */
 
-void swap_int(int *a, int *b);
+void swap_int(int *a, int *b)
 {
-	int tmp *a;
+	int tmp = *a;
 
 	*a = *b;
-	*b= tmp;
+	*b = tmp;
 }
