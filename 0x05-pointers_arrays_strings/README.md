@@ -1,3 +1,4 @@
-c - pointers, arrays and strings
+pointrers arrays and string
 
-0 - write a function that takes a pointer to an int as parameter and update the value it points to 98.
+Project for Septemebr 19, 2022
+
