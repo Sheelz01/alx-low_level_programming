@@ -1,9 +1,10 @@
-#include "main.h"
+#include "main.h
+
 
 /**
-*sawp_int -swaps two integers'values
-*@n: first integer
-:@b: second integer
+*swap_int - swaps two integers' values
+*@a: first integer
+*@b: second integer
 *return: returns nothing
 */
 
