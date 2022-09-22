@@ -1,0 +1,7 @@
+#ifndef MAIN_H
+#define MAIN_H
+
+/**
+*File: main.h
+*Auth: Sheelagh Ikechi
+*project: 0x06-pointers_arrays_strings
