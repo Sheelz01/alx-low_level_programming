@@ -181,6 +181,7 @@ void add_nums(char *final_prod, char *next_prod, int next_len)
 		next_prod--;
 
 	}
+}
 
 	/**
 	 * main - Multiplies two positive numbers.
